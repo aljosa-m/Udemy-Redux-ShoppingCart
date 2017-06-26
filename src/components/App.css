@@ -1,0 +1,13 @@
+body {
+  background-color: #dbd1b4;
+}
+
+.App-mainbody {
+  display: flex;
+  width: 100%;
+  overflow: auto;
+}
+
+.Fruit {
+  background-color: green;
+}
